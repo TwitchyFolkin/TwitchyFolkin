@@ -4,6 +4,6 @@
 - 🌱 I’m currently learning Python.
 - 🤔 I’m looking for help with extracting files from Dead by Daylight, an Unreal Engine 4 game.
 - 💬 Ask me about anything!
-- 📫 How to reach me: > Twitter > Discord
+- 📫 How to reach me: > [Twitter](https://twitter.com/folkin_) > Discord - Folkin#0001
 - ⚡ Fun fact: I'm a huge Lego fan.
 
